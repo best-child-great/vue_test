@@ -1,0 +1,20 @@
+{
+"status": "success",
+"data": [
+{
+    "_id": "61f7c9e68d2fa1b8d4a2a9f0",
+    "username": "john.doe",
+    "email": "john.doe@example.com",
+    "registrationDate": "2022-01-01T00:00:00Z",
+    "status": { "code": 1, "description": "Active" }
+},
+{
+    "_id": "61f7c9e68d2fa1b8d4a123f0",
+    "username": "Boan.aaa",
+    "email": "Boan.aaa@example.com",
+    "registrationDate": "2022-09-01T00:00:00Z",
+    "status": { "code": 1, "description": "Active" }
+}
+]
+}
+    
